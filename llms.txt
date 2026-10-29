@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Hand-curated, link-checked catalog of 534 Model Context Protocol (MCP) servers in 13 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
+> Hand-curated, link-checked catalog of 535 Model Context Protocol (MCP) servers in 14 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
 
 MCP is an open protocol that lets AI applications connect to external tools and data through a standardized client-server interface. This catalog lists well-scoped, source-available servers for databases, developer tools, browsers, cloud services, and more. Entries are reviewed for a clear purpose, a public source, and recent or official maintenance. Links are checked on every pull request and weekly.
 
@@ -560,6 +560,10 @@ Links under each category point at the upstream project, docs, or registry page.
 - [Zaptu](https://github.com/TommyTap11/zaptu): Sends a person's consented US home-service contact request (service, ZIP, name, phone) to independent local providers; for plumbing it returns a number the person dials, and Zaptu does not perform the work. (Python, official)
 - [Zovo Invoice Generator](https://github.com/theluckystrike/mcp-invoice-generator): Invoice creation, line items, totals, and PDF-ready billing documents over MCP; also available as a hosted Streamable HTTP endpoint. (TypeScript)
 - [Zovo Invoice MCP](https://github.com/theluckystrike/mcp-servers/tree/main/servers/invoice): Local PDF invoicing with sequential numbering, VAT per rate, and client management; also sold as a hosted streamable endpoint. (TypeScript)
+
+## Logistics and Shipping
+
+- [Mothership](https://github.com/mothership/agent-plugins): Mothership LTL, FTL & Local Freight: get quotes and track shipments. (TypeScript, official)
 
 ## Utilities and Examples
 

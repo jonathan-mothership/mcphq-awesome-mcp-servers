@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-534-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-535-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -53,6 +53,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Legal and Court Data](#legal-and-court-data) (7)
 - [Security and Identity](#security-and-identity) (28)
 - [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (110)
+- [Logistics and Shipping](#logistics-and-shipping) (1)
 - [Utilities and Examples](#utilities-and-examples) (22)
 
 <a id="official-and-reference"></a>
@@ -1162,6 +1163,15 @@ Payments, banking, CRM, e-commerce, and business system integrations.
   `invoice` `billing` `pdf`
 - **[Zovo Invoice MCP](https://github.com/theluckystrike/mcp-servers/tree/main/servers/invoice)** `TypeScript` — Local PDF invoicing with sequential numbering, VAT per rate, and client management; also sold as a hosted streamable endpoint.  
   `invoice` `pdf` `billing` `bookkeeping` `finance`
+
+<a id="logistics-and-shipping"></a>
+
+## Logistics and Shipping
+
+Freight and parcel shipping, carrier rates, shipment tracking, and supply chain operations.
+
+- **[Mothership](https://github.com/mothership/agent-plugins)** `Official` `TypeScript` — Mothership LTL, FTL & Local Freight: get quotes and track shipments.  
+  `freight` `logistics` `shipping` `oauth` `remote`
 
 <a id="utilities-and-examples"></a>
 
